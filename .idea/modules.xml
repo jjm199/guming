@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gm_springboot/gm_springboot.iml" filepath="$PROJECT_DIR$/gm_springboot/gm_springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gm_vue/gm_vue.iml" filepath="$PROJECT_DIR$/gm_vue/gm_vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guming.iml" filepath="$PROJECT_DIR$/guming.iml" />
+    </modules>
+  </component>
+</project>
